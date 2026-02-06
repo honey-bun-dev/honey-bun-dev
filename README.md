@@ -55,4 +55,4 @@ Binary analysis, archive unpacking, ROM map documentation, gameplay logic modifi
 ## Contact
 
 📧 jonathanrann95@outlook.com  
-🌐 Portfolio coming soon
+🌐 https://jrann.site
