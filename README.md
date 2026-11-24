@@ -1,4 +1,4 @@
-# Jonathan Rann
+# Honey Bun Dev
 
 **Full-Stack Engineer • AI Automation • Game Reverse Engineering**
 
@@ -49,10 +49,3 @@ Binary analysis, archive unpacking, ROM map documentation, gameplay logic modifi
 **AI & Integrations:** Twilio, SendGrid, VAPI, LLM APIs  
 **Engineering:** FreeCAD, EZDXF, custom parsers  
 **Low-Level:** binary analysis, pack formats, reverse engineering  
-
----
-
-## Contact
-
-📧 jonathanrann95@outlook.com  
-🌐 https://jrann.site
